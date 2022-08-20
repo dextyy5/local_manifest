@@ -38,7 +38,7 @@
         <remove-project name="vendor_aosp" />
 	<remove-project name="system_core" />
 
-	<project path="vendor/aosp" name="vendor_aosp" remote="abhi" revision="twelve" />
+	<project path="vendor/aosp" name="vendor_aosp" remote="abhi" revision="twelve-plus" />
         <project path="system/core" name="system_core" remote="abhi" revision="twelve" />
 	
 <!-- Extras -->
