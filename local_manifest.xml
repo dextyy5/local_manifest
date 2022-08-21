@@ -12,7 +12,7 @@
 <!-- Device Trees -->
     
         <project path="device/xiaomi/Mi439" name="device_xiaomi_Mi439" remote="abhi" revision="evo" />   
-        <project path="device/xiaomi/mithorium-common" name="device_xiaomi_mithorium-common" remote="abhi" revision="a12/master" />
+        <project path="device/xiaomi/mithorium-common" name="device_xiaomi_mithorium-common" remote="abhi" revision="evo" />
     
 <!-- Kernel Tree -->
     
