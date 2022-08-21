@@ -25,7 +25,7 @@
     
 <!-- HALs -->
 
-        <remove-project name="ArrowOS/android_hardware_qcom_wlan" />
+        <remove-project name="android_hardware_qcom_wlan" />
         <remove-project name="LineageOS/android_hardware_qcom_audio" />
         <remove-project name="LineageOS/android_hardware_qcom_media" />
         <remove-project name="LineageOS/android_hardware_qcom_display" />
