@@ -11,8 +11,8 @@
             
 <!-- Device Trees -->
     
-        <project path="device/xiaomi/Mi439" name="device_xiaomi_Mi439" remote="me" revision="corvus" />   
-        <project path="device/xiaomi/mithorium-common" name="device_xiaomi_mithorium-common" remote="me" revision="corvus" />
+        <project path="device/xiaomi/Mi439" name="android_device_xiaomi_Mi439" remote="me" revision="corvus" />   
+        <project path="device/xiaomi/mithorium-common" name="android_device_xiaomi_mithorium-common" remote="me" revision="corvus" />
     
 <!-- Kernel Tree -->
     
@@ -27,10 +27,10 @@
 
         <remove-project name="android_hardware_qcom_wlan" />
 
-	<project path="hardware/qcom-caf/wlan" name="msm8953_hals" remote="me" revision="wlan"/>
-	<project path="hardware/qcom-caf/msm8953/audio" name="msm8953_hals" remote="me" revision="audio"/>
-	<project path="hardware/qcom-caf/msm8953/media" name="msm8953_hals" remote="me" revision="media"/>
-	<project path="hardware/qcom-caf/msm8953/display" name="msm8953_hals" remote="me" revision="display"/>
+	<project path="hardware/qcom-caf/wlan" name="msm8953_hals" remote="karan" revision="wlan"/>
+	<project path="hardware/qcom-caf/msm8953/audio" name="msm8953_hals" remote="karan" revision="audio"/>
+	<project path="hardware/qcom-caf/msm8953/media" name="msm8953_hals" remote="karan" revision="media"/>
+	<project path="hardware/qcom-caf/msm8953/display" name="msm8953_hals" remote="karan" revision="display"/>
 
 
 <!-- Patches -->
